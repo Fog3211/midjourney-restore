@@ -1,5 +1,4 @@
 import './style.css'
-import { x} from './utils'
+import { animate } from './utils'
 
-
-x(0)
+animate(0)
